@@ -1,0 +1,6 @@
+@piyama_HostAddress = http://localhost:5090
+
+GET {{piyama_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
